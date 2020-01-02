@@ -5,6 +5,7 @@ __pycache__/
 
 .vscode
 pyenv37x
+work
 # C extensions
 *.so
 
